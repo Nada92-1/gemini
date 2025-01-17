@@ -3,7 +3,7 @@ body {
 }
 
 .hero {
-  background-image: url('your_image_path.jpg'); /* Replace with actual image path */
+  background-image: url('"C:\Users\bajou\OneDrive\Dokumente\website\hero-background.jpg"'); /* Replace with actual image path */
   background-size: cover;
   background-position: center;
   height: 100vh; /* Adjust height as needed */
