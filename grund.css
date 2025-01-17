@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+}
+
+.hero {
+  background-image: url('your_image_path.jpg'); /* Replace with actual image path */
+  background-size: cover;
+  background-position: center;
+  height: 100vh; /* Adjust height as needed */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  text-align: center;
+  color: #fff; /* Or any desired color */
+}
+
+.logo {
+  /* Style your logo here (e.g., size, margin) */
+}
+
+/* Style the navigation bar (nav) and its elements (ul, li, a) as desired */
+
+/* Add styles for other sections (about, services, etc.) */
